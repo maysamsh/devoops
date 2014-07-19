@@ -1,0 +1,12 @@
+﻿@font-face {
+    font-family: "Nassim";
+    font-style: normal;
+    font-weight: normal;
+    src: local("☺"), url("../fonts/nassim-regular.woff") format("woff"), url("../fonts/nassim-regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Nassim-Bold";
+    font-style: normal;
+    font-weight: bold;
+    src: local("☺"), url("../fonts/nassim-bold.woff") format("woff"), url("../fonts/nassim-bold.ttf") format("truetype");
+}
