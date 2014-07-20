@@ -22,7 +22,7 @@ h1, .h1, h2, .h2, h3, .h3 {
 }
 #logo a {
   color: #fff;
-  font-family: 'Nassim', Arial;
+  font-family: "Nassim",'Righteous', cursive;
   display: block;
   font-size: 20px;
   line-height: 50px;
@@ -180,7 +180,8 @@ a.show-sidebar:hover {
 }
 #search {
   position: relative;
-  margin-left: 20px;
+  margin-px;
+ : 20px;
 }
 #search > input {
   width: 80%;
@@ -1548,7 +1549,7 @@ td.beauty-hover {
   padding: 1em 0;
 }
 .ui-widget {
-  font-family: "Nassim", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Nassim","Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .jqstooltip {
   -webkit-box-sizing: content-box;
@@ -2087,7 +2088,7 @@ td.beauty-hover {
 }
 #page-login h3 {
   font-size:20px;
-  font-family: "Nassim", 'Righteous', cursive;
+  font-family: "Nassim",'Righteous', cursive;
 }
 #page-login .text-right {
   margin-top: 15px;

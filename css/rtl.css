@@ -1,0 +1,18 @@
+﻿.rtl{
+    direction:rtl !important;
+}
+.rtl-x *{
+    direction:rtl !important;
+}
+.text-right{
+    text-align:right !important;
+}
+.text-right-x *{
+    text-align:right !important;
+}
+.font-nassim{
+    font-family:"Nassim", Arial !important;
+}
+.font-nassim-x{
+    font-family:"Nassim", Arial !important;
+}

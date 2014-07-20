@@ -10,3 +10,9 @@
     font-weight: bold;
     src: local("☺"), url("../fonts/nassim-bold.woff") format("woff"), url("../fonts/nassim-bold.ttf") format("truetype");
 }
+.font-nassim{
+    font-family:Nassim, Arial;
+}
+.font-size-16px{
+    font-size:16px;
+}
