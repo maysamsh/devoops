@@ -22,7 +22,7 @@ h1, .h1, h2, .h2, h3, .h3 {
 }
 #logo a {
   color: #fff;
-  font-family: "Nassim",'Righteous', cursive;
+  font-family: 'Righteous', cursive;
   display: block;
   font-size: 20px;
   line-height: 50px;
@@ -53,7 +53,7 @@ h1, .h1, h2, .h2, h3, .h3 {
   z-index: 9;
 }
 a.show-sidebar {
-  float: right;
+  float: left;
   color:#6d6d6d;
   outline: none;
   -webkit-transition: 0.2s;
@@ -180,8 +180,7 @@ a.show-sidebar:hover {
 }
 #search {
   position: relative;
-  margin-px;
- : 20px;
+  margin-left: 20px;
 }
 #search > input {
   width: 80%;
@@ -748,7 +747,7 @@ td.beauty-hover {
   border-color: rgba(0, 0, 0, 0.3);
   cursor: pointer;
   outline: none;
-  font-family: "Nassim","Lucida Grande","Lucida Sans","Lucida Sans Unicode","Segoe UI",Verdana,sans-serif;
+  font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Segoe UI",Verdana,sans-serif;
   display: inline-block;
   vertical-align: top;
   position: relative;
@@ -1549,7 +1548,7 @@ td.beauty-hover {
   padding: 1em 0;
 }
 .ui-widget {
-  font-family: "Nassim","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .jqstooltip {
   -webkit-box-sizing: content-box;
@@ -2088,7 +2087,7 @@ td.beauty-hover {
 }
 #page-login h3 {
   font-size:20px;
-  font-family: "Nassim",'Righteous', cursive;
+  font-family: 'Righteous', cursive;
 }
 #page-login .text-right {
   margin-top: 15px;

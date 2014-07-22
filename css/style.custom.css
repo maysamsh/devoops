@@ -1,0 +1,21 @@
+﻿#logo *{
+    font-family:"Nassim", Arial !important;
+}
+
+.rtl{
+	direction:rtl !important;
+}
+.alert > p, .alert > ul{
+	padding-right:20px;
+	font-family: 'Nassim', Arial;
+}
+.form-horizontal{
+	font-family:'Nassim', Arial;
+}
+.nav > li {
+    direction:ltr;
+    
+}
+.nav.main-menu > li > a, .nav.msg-menu > li > a{
+    text-align:right;
+}
